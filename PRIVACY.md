@@ -25,12 +25,16 @@ Windows data-retention settings.
 
 ## Network activity
 
-Generated captions are enabled by default and require a speech-recognition model.
-You can switch them off in the Captions menu or Settings. Opening a book can start
-a model download if the selected model is not already installed. StoryArc downloads
-models over HTTPS using Whisper.net's model host. The host receives normal connection information, such as your IP address.
-The request does not include your audio, document contents, library or listening
-history. Caption generation then runs locally.
+Generated captions are enabled by default. The Base speech-recognition model is
+included with StoryArc and can generate captions offline from first use. You can
+switch captions off in the Captions menu or Settings.
+
+Tiny, Small and Medium are optional models downloaded separately. Selecting a
+model that is not installed can start a download when captions are generated.
+StoryArc downloads these models over HTTPS using Whisper.net's model host. The
+host receives normal connection information, such as your IP address. The request
+does not include your audio, document contents, library or listening history.
+Caption generation runs locally.
 
 Opening the JAD Apps website, this policy or a support link launches your browser.
 Those sites have their own privacy policies. StoryArc does not add audiobook
