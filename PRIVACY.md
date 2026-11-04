@@ -1,6 +1,6 @@
 # StoryArc privacy policy
 
-Effective 3 November 2026.
+Effective 4 November 2026.
 
 StoryArc is a Windows audiobook player developed by John Donnelly, trading as
 JAD Apps. Your audio, library and listening history are processed on your PC.
@@ -25,9 +25,10 @@ Windows data-retention settings.
 
 ## Network activity
 
-Generated captions require a speech-recognition model. When you request a model
-that is not installed, StoryArc downloads it over HTTPS using Whisper.net's model
-host. The host receives normal connection information, such as your IP address.
+Generated captions are enabled by default and require a speech-recognition model.
+You can switch them off in the Captions menu or Settings. Opening a book can start
+a model download if the selected model is not already installed. StoryArc downloads
+models over HTTPS using Whisper.net's model host. The host receives normal connection information, such as your IP address.
 The request does not include your audio, document contents, library or listening
 history. Caption generation then runs locally.
 
