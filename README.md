@@ -11,6 +11,23 @@ model download.
 
 **Status:** Released on the Microsoft Store. No audiobooks are included.
 
+## Screenshots
+
+![StoryArc's library showing three audiobooks with progress, listening time and the mini player.](docs/media/storyarc-library.png)
+*Browse your local audiobook library.*
+
+![StoryArc's Now Playing view showing a large caption line, chapter selector and playback controls.](docs/media/storyarc-now-playing.png)
+*Follow captions generated locally on your PC.*
+
+![StoryArc's bookmarks and chapters panel open over Now Playing.](docs/media/storyarc-bookmarks-chapters.png)
+*Save bookmarks and navigate chapters.*
+
+![StoryArc's Audio Effects window with the 18-band equaliser, pre-gain boost and effects switch.](docs/media/storyarc-audio-effects.png)
+*Adjust the equaliser and audio effects.*
+
+![StoryArc's Settings page with appearance, playback, captions, audio effects and visualisation options.](docs/media/storyarc-settings.png)
+*Choose playback, caption and appearance preferences.*
+
 ## Project and support
 
 This public repository contains product information, privacy information
